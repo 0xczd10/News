@@ -99,8 +99,7 @@
         "weather": "Qin varan 17C, sel'kil tevor.",
         "equipment": "Kal'vel til'kin, ser'tor kelven, toren valrik."
       }
-    }
-  ],
+    }.
     {
       "id": 6,
       "title": "Til'vari Sen'kal Meran",
@@ -241,5 +240,6 @@
         "equipment": "Ten'ral ven’lar, mir'kal tor'in, valir kel'len."
       }
     }
+  ],
 }
 
