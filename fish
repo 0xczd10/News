@@ -1,6 +1,7 @@
 {
   "vaMigenZora": [
     {
+      "name": "Lir’zen",
       "finJora": "Lir’zen",
       "kelendar": [
         {
@@ -42,6 +43,7 @@
       ]
     },
     {
+      "name": "Mar’tin",
       "finJora": "Mar’tin",
       "kelendar": [
         {
@@ -83,6 +85,7 @@
       ]
     },
     {
+      "name": "Kav'lin",
       "finJora": "Kav'lin",
       "kelendar": [
         {
