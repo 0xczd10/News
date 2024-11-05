@@ -2,72 +2,102 @@
   "news": [
     {
       "id": 1,
-      "title": "Galtrin Savi'en Tharli Tirin",
-      "date": "2024-11-05",
-      "summary": "Lorvan tiren vi'kera ni feras halmat ulari qin torfal.",
-      "content": "Lorvan tiren vi'kera ni feras halmat ulari qin torfal. Tilarin vas'kela mivar, qorvin saanel veran torveli lurkan tirak. Nelmar vir'ali oskal dur'kel torivin. Veran ni soolen marik, qirane'len qelvin oorik norem vasarin.",
-      "author": "Telira Jonkevi",
-      "tags": ["fishing", "river", "techniques"],
+      "title": "Falorin Vilka Sereva",
+      "date": "2024-11-01",
+      "summary": "Toran valin ser'ka vilin vektar oornan vinol.",
+      "content": "Toran valin ser'ka vilin vektar oornan vinol. Qaleri nas'vikin talvor senurik telva. Kalin sevek nor'ki jorvun, torin terak volaar inrelni vekar vin'tal.",
+      "author": "Nirvin Kortev",
+      "tags": ["fishing", "river", "advice"],
+      "images": [
+        {
+          "url": "https://s0.rbk.ru/v6_top_pics/resized/590xH/media/img/6/83/347302979814836.webp",
+          "caption": "Nir valka relvor seren."
+        }
+      ],
       "details": {
-        "location": "Valimor Vali, Qarin Tirlak",
-        "weather": "Valun mirkal qer'vik, mornin tempur 16C.",
-        "equipment": "Torin selva'ker, noren kelver, ulkan pirvi."
+        "location": "Valak Renor, Tilvar Nerin",
+        "weather": "Valoor tirvar 18C, selvar qoren.",
+        "equipment": "Torkel varin'ka, selorin qarev, norven pirko."
       }
     },
     {
       "id": 2,
-      "title": "Valurek Finnel Kir'man",
-      "date": "2024-11-03",
-      "summary": "Kirman tul've selkar, periken morin nelven torik valkora.",
-      "content": "Kirman tul've selkar, periken morin nelven torik valkora. Ventalin varik morna selnar lenkin, qor tel've kisren talvar reken. Felv'an tarika silver ki morne, qoran pi'kel norin ver qelin. Nel'ta irun, torval mirken laska ker volen torin.",
-      "author": "Sela Vinrak",
-      "tags": ["sea", "species", "exploration"],
+      "title": "Lirkar Uvaren Silvi",
+      "date": "2024-10-28",
+      "summary": "Vela rin tarka surin tul ve'nerin qorin selvar.",
+      "content": "Vela rin tarka surin tul ve'nerin qorin selvar. Qole noren sirte vin valka kilvor, qoran terno'tir larven. Torli venark nil, toren vekor inrik mar'kil ornati.",
+      "author": "Selvor Tinrik",
+      "tags": ["lake", "rare species", "report"],
+      "images": [
+        {
+          "url": "https://s0.rbk.ru/v6_top_pics/resized/590xH/media/img/9/57/347286653194579.webp",
+          "caption": "Kal ornar venrik."
+        }
+      ],
       "details": {
-        "location": "Soral Kir, Opan Nivar",
-        "weather": "Tirven silqara 23C, breken ralun.",
-        "equipment": "Sik'velen porvar, vel'tak norvi, tamarel pirken."
+        "location": "Talvor Virka, Renar Volin",
+        "weather": "Kel nor'var 15C, qorin tirmen vekin.",
+        "equipment": "Orlan selvet, korvil toren, qirnen ralen."
       }
     },
     {
       "id": 3,
-      "title": "Neral'tu Qorik Vinmar",
-      "date": "2024-10-29",
-      "summary": "Pelvir Qorik ramaran vi'lik fenri sel tul'an volik.",
-      "content": "Pelvir Qorik ramaran vi'lik fenri sel tul'an volik. Jor'veri til'in toram vekir, qalmar ni ferik kalen vorin elnin virkan. Torik ril'qen varo'sel kin, toren valin malar'n qiratu var'el. Pirin lorven ni feratil qirin.",
-      "author": "Melkan Torel",
-      "tags": ["lake", "rare species", "report"],
+      "title": "Maril Qorik Vekorin",
+      "date": "2024-10-25",
+      "summary": "Qorik vemar nilor verin til'kin qarnet.",
+      "content": "Qorik vemar nilor verin til'kin qarnet. Kalir velrik tor'in, qirane norin selvikin norvel qorin vel'var. Til'ar kan qirnal venor vekari tornel.",
+      "author": "Tirvel Sakari",
+      "tags": ["sea", "fishing techniques", "exploration"],
+      "images": [
+        {
+          "url": "https://s0.rbk.ru/v6_top_pics/resized/590xH/media/img/8/88/347265796036888.webp",
+          "caption": "Vilin tora kelin."
+        }
+      ],
       "details": {
-        "location": "Lok Narien, Talmar Vial",
-        "weather": "Val'kan per'lik 14C, sel maren qerin.",
-        "equipment": "Loran sel'vik, qorven teer, varik renka."
+        "location": "Serekin Valtor, Nirem Volkar",
+        "weather": "Varon qeren 20C, tirvel se'rin.",
+        "equipment": "Sel'nor tilka, ven'kil tarnal, varik qinvar."
       }
     },
     {
       "id": 4,
-      "title": "Qelin Ve'ral Tinvari",
-      "date": "2024-10-22",
-      "summary": "Tinvari sel qeren'tul pin’ki tor'al vekin qelar.",
-      "content": "Tinvari sel qeren'tul pin’ki tor'al vekin qelar. Morin sel varik tulvek len piron, qor veri ni ketal viren tarkel. Vorken maren telve pir'la, seval lur'in kelni marlin. Torven sel qelna lur'tir norin.",
-      "author": "Qaren Nilka",
-      "tags": ["river", "fishing techniques", "season tips"],
+      "title": "Toren Valrik Selvari",
+      "date": "2024-10-20",
+      "summary": "Valrik sel'vorin tul verin mirak venar torik.",
+      "content": "Valrik sel'vorin tul verin mirak venar torik. Veralin til qarev, varuk rin toren si'var qulin taren. Vemarin ve'rit qarin lur'in tevolin kal'verin.",
+      "author": "Kelrin Tivar",
+      "tags": ["equipment", "sea", "guide"],
+      "images": [
+        {
+          "url": "https://s0.rbk.ru/v6_top_pics/resized/590xH/media/img/8/66/347284754165668.webp",
+          "caption": "Tir volaren mirkel."
+        }
+      ],
       "details": {
-        "location": "Rikal Nar'el, Qoran Terel",
-        "weather": "Ve’kan mirqil 19C, kelman tinal oren.",
-        "equipment": "Velkir tor'ki, maril tenvi, verkel ne’rik."
+        "location": "Lorik Mernar, Kilvar Neran",
+        "weather": "Varven selrak 22C, vel'kin tor'in.",
+        "equipment": "Valer noren'tin, ser'kin torvin, selar kilnor."
       }
     },
     {
       "id": 5,
-      "title": "Rilan Forin Kal'tan",
+      "title": "Sorek Tilver Vaklen",
       "date": "2024-10-15",
-      "summary": "Kal'tan ser'il tul'ken veri qinmar, tor'an melrin qel tulve.",
-      "content": "Kal'tan ser'il tul'ken veri qinmar, tor'an melrin qel tulve. Valori selkin rin, venik qalin ten'korik rilan. Tor’vil nir'van kelra sin tivar venin. Qiral norve tivan, sel nir kat’kin qoril qel maren.",
-      "author": "Talvor Merik",
-      "tags": ["fishing trips", "advice", "seasonal"],
+      "summary": "Tilver nor ki'lore, kel'ver qirrin loken viren.",
+      "content": "Tilver nor ki'lore, kel'ver qirrin loken viren. Torin venser qalen, til'vor sel qinari kel'in nerkal qin vin. Qalin ver sel orikan til'an valar ve'kin.",
+      "author": "Lirven Valorin",
+      "tags": ["fishing trips", "seasonal", "tips"],
+      "images": [
+        {
+          "url": "https://s0.rbk.ru/v6_top_pics/resized/590xH/media/img/1/84/347249322397841.webp",
+          "caption": "Tarevin nor velmir."
+        }
+      ],
       "details": {
-        "location": "Toral Valor, Nirin Sel’kor",
-        "weather": "Sel'var qin’en 18C, rekin ti’al nor.",
-        "equipment": "Valir pir'kek, ne'lin torven, mirik valqar."
+        "location": "Kilven Tornal, Valir Qoran",
+        "weather": "Qin varan 17C, sel'kil tevor.",
+        "equipment": "Kal'vel til'kin, ser'tor kelven, toren valrik."
       }
     }
   ]
