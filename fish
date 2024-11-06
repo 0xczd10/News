@@ -461,6 +461,298 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Mar'zon",
+      "finJora": "Mar'zon",
+      "kelendar": [
+        {
+          "menor": "Tor'ka",
+          "stari": "Xen'ra",
+          "endri": "Jen'kin",
+          "rovaJira": "Kel'ton Mira",
+          "soka": "Lir'kan",
+          "paran": "Jor'zen"
+        },
+        {
+          "menor": "Ten'li",
+          "stari": "Sar'va",
+          "endri": "Xar'kin",
+          "rovaJira": "Ven'ra Sora",
+          "soka": "Pera'lon",
+          "paran": "Zar'kon"
+        }
+      ],
+      "megrev": [
+        {
+          "rivai": "Lor'ka",
+          "migi": "Par'ri",
+          "karpar": [
+            "Sora'ni",
+            "Ten'ka",
+            "Kel'zar"
+          ]
+        },
+        {
+          "rivai": "Mar'na",
+          "migi": "Fen'zi",
+          "karpar": [
+            "Nor'va",
+            "Jen'ra",
+            "Xor'la"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nor'la",
+      "finJora": "Nor'la",
+      "kelendar": [
+        {
+          "menor": "Vira'la",
+          "stari": "Lor'na",
+          "endri": "Par'ka",
+          "rovaJira": "Jen'ka Vor",
+          "soka": "Ror'kin",
+          "paran": "Fen'tar"
+        },
+        {
+          "menor": "Zar'lon",
+          "stari": "Ten'ko",
+          "endri": "Mar'zir",
+          "rovaJira": "Sora'ni Fin",
+          "soka": "Xar'ni",
+          "paran": "Jor'ka"
+        }
+      ],
+      "megrev": [
+        {
+          "rivai": "Zen'va",
+          "migi": "Nor'kan",
+          "karpar": [
+            "Tar'ri",
+            "Lor'za",
+            "Pen'lon"
+          ]
+        },
+        {
+          "rivai": "Vira'ken",
+          "migi": "Kel'lor",
+          "karpar": [
+            "Fen'tor",
+            "Nar'lo",
+            "Sora'ken"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tar'vo",
+      "finJora": "Tar'vo",
+      "kelendar": [
+        {
+          "menor": "Lir'no",
+          "stari": "Pen'li",
+          "endri": "Jor'ka",
+          "rovaJira": "Xen'ra Mira",
+          "soka": "Pora'ka",
+          "paran": "Rin'ka"
+        },
+        {
+          "menor": "Xar'jo",
+          "stari": "Zor'va",
+          "endri": "Kel'zen",
+          "rovaJira": "Nar'len Fira",
+          "soka": "Tor'ken",
+          "paran": "Sar'na"
+        }
+      ],
+      "megrev": [
+        {
+          "rivai": "Lira'ka",
+          "migi": "Jin'tor",
+          "karpar": [
+            "Ven'la",
+            "Xar'ni",
+            "Lor'vo"
+          ]
+        },
+        {
+          "rivai": "Per'kin",
+          "migi": "Ten'lin",
+          "karpar": [
+            "Mar'za",
+            "Zen'lon",
+            "Jor'ni"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sora'ki",
+      "finJora": "Sora'ki",
+      "kelendar": [
+        {
+          "menor": "Kel'no",
+          "stari": "Mar'lin",
+          "endri": "Nor'ka",
+          "rovaJira": "Pen'lon Vira",
+          "soka": "Xor'va",
+          "paran": "Lor'kin"
+        },
+        {
+          "menor": "Tor'li",
+          "stari": "Ven'lo",
+          "endri": "Zin'ka",
+          "rovaJira": "Rin'ka Sena",
+          "soka": "Par'ken",
+          "paran": "Nar'zir"
+        }
+      ],
+      "megrev": [
+        {
+          "rivai": "Zen'ta",
+          "migi": "Sora'ra",
+          "karpar": [
+            "Lir'ka",
+            "Jen'vi",
+            "Mar'tar"
+          ]
+        },
+        {
+          "rivai": "Tar'lo",
+          "migi": "Xen'ra",
+          "karpar": [
+            "Nor'ken",
+            "Pen'vi",
+            "Lor'tin"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pen'za",
+      "finJora": "Pen'za",
+      "kelendar": [
+        {
+          "menor": "Mar'lo",
+          "stari": "Zin'ra",
+          "endri": "Nar'va",
+          "rovaJira": "Kel'ran Jora",
+          "soka": "Ten'ka",
+          "paran": "Sar'len"
+        },
+        {
+          "menor": "Xor'ra",
+          "stari": "Lir'na",
+          "endri": "Pen'to",
+          "rovaJira": "Tar'lon Vira",
+          "soka": "Pora'ka",
+          "paran": "Lor'zir"
+        }
+      ],
+      "megrev": [
+        {
+          "rivai": "Xen'ri",
+          "migi": "Mar'ten",
+          "karpar": [
+            "Ven'lo",
+            "Nor'len",
+            "Zor'ken"
+          ]
+        },
+        {
+          "rivai": "Sora'kin",
+          "migi": "Kel'vor",
+          "karpar": [
+            "Tar'zen",
+            "Pen'ra",
+            "Lor'kan"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xor'va",
+      "finJora": "Xor'va",
+      "kelendar": [
+        {
+          "menor": "Lor'ra",
+          "stari": "Pen'ta",
+          "endri": "Jin'ka",
+          "rovaJira": "Nar'ken Mira",
+          "soka": "Xen'lan",
+          "paran": "Tor'vo"
+        },
+        {
+          "menor": "Zen'ra",
+          "stari": "Mar'kan",
+          "endri": "Sar'zi",
+          "rovaJira": "Lor'tin Sora",
+          "soka": "Jor'za",
+          "paran": "Ten'vi"
+        }
+      ],
+      "megrev": [
+        {
+          "rivai": "Kel'na",
+          "migi": "Pen'zi",
+          "karpar": [
+            "Ven'ra",
+            "Nar'va",
+            "Sora'kan"
+          ]
+        },
+        {
+          "rivai": "Jor'kin",
+          "migi": "Zor'tan",
+          "karpar": [
+            "Xen'ra",
+            "Lor'kan",
+            "Tor'ni"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mar'zen",
+      "finJora": "Mar'zen",
+      "kelendar": [
+        {
+          "menor": "Tor'no",
+          "stari": "Jen'zi",
+          "endri": "Nar'kin",
+          "rovaJira": "Lor'kan Xor",
+          "soka": "Zar'ken",
+          "paran": "Pen'la"
+        },
+        {
+          "menor": "Nor'ta",
+          "stari": "Lir'len",
+          "endri": "Xen'lo",
+          "rovaJira": "Vira'ka Rin",
+          "soka": "Per'to",
+          "paran": "Ten'ra"
+        }
+      ],
+      "megrev": [
+        {
+          "rivai": "Sora'kan",
+          "migi": "Xor'zen",
+          "karpar": [
+            "Lir'ni",
+            "Pen'ra",
+            "Tor'zen"
+          ]
+        },
+        {
+          "rivai": "Nar'lon",
+          "migi": "Jor'va",
+          "karpar": [
+            "Kel'zi",
+            "Mar'lin",
+            "Ven'na"
+          ]
+        }
+      ]
     }
-  ]
-}
