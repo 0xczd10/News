@@ -1,0 +1,122 @@
+[
+    {
+        "authorName": "Lor'tan Kira",
+        "rating": 4,
+        "date": "2024-01-15",
+        "text": "Fin’tena tora vena! Firka jor'nas fira, sira tenai renka lor. Sona firka vera toma."
+    },
+    {
+        "authorName": "Kar'lon Meri",
+        "rating": 5,
+        "date": "2024-01-17",
+        "text": "Vanta tor vanta! Tori kanta velna fira jora, tenra sera finta. Nes'tin!"
+    },
+    {
+        "authorName": "Vel'kin Tera",
+        "rating": 3,
+        "date": "2024-02-02",
+        "text": "Loka fin verani, fira kanta nori ten. Finka sona velor, vera kanta fon."
+    },
+    {
+        "authorName": "Jor'na Vira",
+        "rating": 5,
+        "date": "2024-02-10",
+        "text": "Monira tor kanta! Tenra sona vera fin’ta loka. Re'vi kanta tor sira loka!"
+    },
+    {
+        "authorName": "Mar'san Jina",
+        "rating": 4,
+        "date": "2024-03-05",
+        "text": "Jara finta tora. Senra kanta lokari vera sona, jorna sera ten."
+    },
+    {
+        "authorName": "Rel'ka Tenra",
+        "rating": 2,
+        "date": "2024-03-12",
+        "text": "Kara kanta fira, no tora vanta. Fin nori ten, kanta sona lokari."
+    },
+    {
+        "authorName": "Zal'ner Veti",
+        "rating": 5,
+        "date": "2024-04-01",
+        "text": "Vera kanta fira renra ten! Lor sona kantari, tora vena!"
+    },
+    {
+        "authorName": "Yon'va Terni",
+        "rating": 4,
+        "date": "2024-04-15",
+        "text": "Kanta loka tenra vera, fira renra ten. Sira kanta tenna!"
+    },
+    {
+        "authorName": "Ter'va Jinor",
+        "rating": 3,
+        "date": "2024-05-20",
+        "text": "Fira tora kanta sona, no vanta. Jora kanta vera fon tora."
+    },
+    {
+        "authorName": "Fir'zo Lanor",
+        "rating": 5,
+        "date": "2024-05-22",
+        "text": "Ren'ta kanta loka vera! Tor kanta nari fonren, sira kanta vera ten."
+    },
+    {
+        "authorName": "Sen'lor Pira",
+        "rating": 4,
+        "date": "2024-06-10",
+        "text": "Sera kanta loki fin'tora. Pera ten vera kanta sona nira."
+    },
+    {
+        "authorName": "Jor'ka Rina",
+        "rating": 5,
+        "date": "2024-06-18",
+        "text": "Ten kanta vera ren'ta loka! Kanta fira sen tora fin'tor!"
+    },
+    {
+        "authorName": "Nal'vi Toma",
+        "rating": 2,
+        "date": "2024-07-05",
+        "text": "Kanta sona tora, ren loka no ten. Fira kanta sona vera tenra."
+    },
+    {
+        "authorName": "Mon'ka Veri",
+        "rating": 3,
+        "date": "2024-07-20",
+        "text": "Fira kanta loki vera fon, ren kanta. No ten kanta sona ten."
+    },
+    {
+        "authorName": "Kera'na Jorin",
+        "rating": 5,
+        "date": "2024-08-01",
+        "text": "Sira tora kanta! Vena kanta fina ten, nori kanta loka fon!"
+    },
+    {
+        "authorName": "Ral'ni Tivar",
+        "rating": 4,
+        "date": "2024-08-12",
+        "text": "Fon tora kanta fina ten, ver sona loka kanta nora ten."
+    },
+    {
+        "authorName": "Jin'ta Lora",
+        "rating": 5,
+        "date": "2024-09-01",
+        "text": "Tora kanta ren’tora sona, kanta vera fina ten!"
+    },
+    {
+        "authorName": "Tor'vi Rina",
+        "rating": 4,
+        "date": "2024-09-15",
+        "text": "Kanta ren tora vera fina kanta, ten vera kanta nira."
+    },
+    {
+        "authorName": "Lorin'ka Feran",
+        "rating": 3,
+        "date": "2024-10-05",
+        "text": "Ver tora kanta sona, loka kanta nari fon ten vera."
+    },
+    {
+        "authorName": "Zen'ra Tori",
+        "rating": 5,
+        "date": "2024-10-20",
+        "text": "Sen kanta loka, vera fina ten kanta! Jora kanta sira tenra."
+    }
+]
