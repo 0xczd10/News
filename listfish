@@ -1,0 +1,154 @@
+{
+    "fishTypes": [
+        {
+            "type": "Ven’ra Kanta",
+            "fishList": [
+                {
+                    "name": "Lor’fin Jirka",
+                    "description": "Fen'ra kanta jor ve'lira kanta tora vanta ten.",
+                    "habitat": "Sira'rin Ten'ka",
+                    "size": "1.2 - 2.0 metr'ka",
+                    "rarity": "Fin'tora Rira"
+                },
+                {
+                    "name": "Ver'kin Tora",
+                    "description": "Nara kantari ve’lira sora fin'ta kanta mora.",
+                    "habitat": "Roka'vin Lokari",
+                    "size": "0.8 - 1.5 metr'ka",
+                    "rarity": "Fin'ra Kanta"
+                },
+                {
+                    "name": "Ten'ra Silka",
+                    "description": "Kara tora kanta jor fin'tora lokari kanta sora tenra.",
+                    "habitat": "Jira'kon Ver'na",
+                    "size": "0.5 - 1.0 metr'ka",
+                    "rarity": "Rira Kantari"
+                },
+                {
+                    "name": "Zor'na Fenta",
+                    "description": "Lor kanta ve’ra tora fin'ta nira kanta sira.",
+                    "habitat": "Fin'ka Nor'ra",
+                    "size": "1.0 - 1.6 metr'ka",
+                    "rarity": "Fin'ka Rira"
+                },
+                {
+                    "name": "Kor'jin Lora",
+                    "description": "Sira kanta nor'ka vera kanta jor fin'ten.",
+                    "habitat": "Ten'ka Sira'kon",
+                    "size": "1.3 - 1.9 metr'ka",
+                    "rarity": "Tora'ka Ver'ni"
+                },
+                {
+                    "name": "Mar'tin Jora",
+                    "description": "Rira kanta sira fin'ka kanta lor tenra.",
+                    "habitat": "Jor'ka Rina",
+                    "size": "0.7 - 1.2 metr'ka",
+                    "rarity": "Ver'ni Jinta"
+                },
+                {
+                    "name": "Lir'va Senka",
+                    "description": "Kanta ver'ni tora kanta fin'ka jora tenra.",
+                    "habitat": "Sora Tora'ka",
+                    "size": "0.9 - 1.4 metr'ka",
+                    "rarity": "Jor'ka Fin'ta"
+                },
+                {
+                    "name": "Fina'ra Lokari",
+                    "description": "Sira kanta tenri kanta vera lor'ka finra.",
+                    "habitat": "Lora'ka Senta",
+                    "size": "1.0 - 1.7 metr'ka",
+                    "rarity": "Sira'ka Ver'ni"
+                },
+                {
+                    "name": "Tar'va Liren",
+                    "description": "Tora kanta vera kanta jor fin'ra kanta lor.",
+                    "habitat": "Nor'ra Ver'ni",
+                    "size": "1.1 - 1.8 metr'ka",
+                    "rarity": "Rira'ka Ten'ni"
+                },
+                {
+                    "name": "Jir'ta Tora",
+                    "description": "Fen kanta jor kanta ve'ra kanta tora ten.",
+                    "habitat": "Rina Tora'ka",
+                    "size": "0.6 - 1.2 metr'ka",
+                    "rarity": "Ver'ka Kantari"
+                }
+            ]
+        },
+        {
+            "type": "Nir’ta Fin",
+            "fishList": [
+                {
+                    "name": "Sira'ni Mar",
+                    "description": "Kanta tora fen'ra kanta jor tenra tora vera.",
+                    "habitat": "Lokari Fin'ka",
+                    "size": "1.0 - 1.8 metr'ka",
+                    "rarity": "Nira'ka Tora"
+                },
+                {
+                    "name": "Pira'lin Jorna",
+                    "description": "Lor kanta ver'ni kanta fira tora kanta.",
+                    "habitat": "Roka'fin Tenri",
+                    "size": "0.9 - 1.7 metr'ka",
+                    "rarity": "Fin'ra Nara"
+                },
+                {
+                    "name": "Fen'ta Lor’va",
+                    "description": "Sina fin'tora kanta tora ver'la kanta senra.",
+                    "habitat": "Fen'ka Lora'n",
+                    "size": "0.6 - 1.2 metr'ka",
+                    "rarity": "Fin’ra Sen’ta"
+                },
+                {
+                    "name": "Jar'ra Kira",
+                    "description": "Lor kanta fin'ka tora kanta ver'ni kanta.",
+                    "habitat": "Sira'kon Ten'ra",
+                    "size": "1.3 - 2.0 metr'ka",
+                    "rarity": "Ver'ra Jinta"
+                },
+                {
+                    "name": "Tor'na Mira",
+                    "description": "Rara kanta ver kanta fin'ka kanta tora.",
+                    "habitat": "Loka Sira'na",
+                    "size": "0.8 - 1.3 metr'ka",
+                    "rarity": "Jor'ka Sen'ra"
+                },
+                {
+                    "name": "Vira'ni Jenta",
+                    "description": "Sora kanta jor kanta tora kanta fina.",
+                    "habitat": "Jira Lokari",
+                    "size": "1.0 - 1.5 metr'ka",
+                    "rarity": "Ten'ka Rira"
+                },
+                {
+                    "name": "Kor'va Jinta",
+                    "description": "Ver kanta fin'ka kanta sora kanta tenra.",
+                    "habitat": "Rina Senta",
+                    "size": "0.7 - 1.4 metr'ka",
+                    "rarity": "Rira'ka Jinta"
+                },
+                {
+                    "name": "Nira'ka Soren",
+                    "description": "Ten kanta sora kanta jor kanta finra.",
+                    "habitat": "Ten'ka Lor'ri",
+                    "size": "1.1 - 1.9 metr'ka",
+                    "rarity": "Fin'ka Ver'ni"
+                },
+                {
+                    "name": "Jor'ra Lor'ta",
+                    "description": "Kanta sora kanta ver'ra kanta fin tora.",
+                    "habitat": "Lor'ta Kanta",
+                    "size": "1.2 - 2.0 metr'ka",
+                    "rarity": "Nira Kantari"
+                },
+                {
+                    "name": "Zira'ta Joren",
+                    "description": "Ver kanta fin'ka tora kanta jor kanta nira.",
+                    "habitat": "Ten'ka Rina",
+                    "size": "0.9 - 1.6 metr'ka",
+                    "rarity": "Ver'ni Kantari"
+                }
+            ]
+        }
+    ]
+}
