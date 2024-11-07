@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "Atlantic Salmon",
+        "scientificName": "Salmo salar",
+        "imageURL": "https://example.com/images/atlantic_salmon.jpg",
+        "description": "Atlantic salmon is a species of ray-finned fish in the family Salmonidae.",
+        "habitat": "North Atlantic Ocean and rivers that flow into it.",
+        "size": "Up to 150 cm in length.",
+        "diet": "Insects, mollusks, crustaceans, and smaller fish.",
+        "conservationStatus": "Least Concern"
+    },
+    {
+        "id": 2,
+        "name": "Northern Pike",
+        "scientificName": "Esox lucius",
+        "imageURL": "https://example.com/images/northern_pike.jpg",
+        "description": "Northern pike is a species of carnivorous fish of the genus Esox.",
+        "habitat": "Freshwater rivers and lakes in the Northern Hemisphere.",
+        "size": "Up to 150 cm in length.",
+        "diet": "Fish, frogs, small mammals, and birds.",
+        "conservationStatus": "Least Concern"
+    },
+    // Добавьте как можно больше видов рыб
+]
