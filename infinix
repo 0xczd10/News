@@ -3,15 +3,15 @@
     "views": {
         "x": {
             "name": "ContentView",
-            "description": "The main welcome screen with navigation options."
+            "description": "Explore the depths of information about fishing and more"
         },
         "j": {
             "name": "ListFishView",
-            "description": "The view that displays a list of fish species."
+            "description": "Discover new techniques to enhance your fishing skills"
         },
         "o": {
             "name": "PrivacyPolicyView",
-            "description": "The view that displays the privacy policy in a WebView."
+            "description": "Track and record your best catches with ease"
         }
     }
 }
