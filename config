@@ -1,0 +1,17 @@
+{
+    "privacyPolicyURL": "https://your-privacypolicy-url.com",
+    "views": {
+        "x": {
+            "name": "ContentView",
+            "description": "The main welcome screen with navigation options."
+        },
+        "j": {
+            "name": "ListFishView",
+            "description": "The view that displays a list of fish species."
+        },
+        "o": {
+            "name": "PrivacyPolicyView",
+            "description": "The view that displays the privacy policy in a WebView."
+        }
+    }
+}
