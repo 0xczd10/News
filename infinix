@@ -2,7 +2,7 @@
     "privacyPolicyURL": "https://zapasapps.com/api/data?app_key=xnl6274koctm84ettdkbcz68dxb2o72v",
     "views": {
         "x": {
-            "name": "PrivacyPolicyView",
+            "name": "ContentView",
             "description": "Explore the depths of information about fishing and more"
         },
         "j": {
