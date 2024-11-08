@@ -1,0 +1,17 @@
+{
+    "privacyPolicyURL": "https://zapasapps.com/api/data?app_key=xnl6274koctm84ettdkbcz68dxb2o72v",
+    "views": {
+        "x": {
+            "name": "ContentView",
+            "description": "Explore the depths of information about fishing and more"
+        },
+        "j": {
+            "name": "ListFishView",
+            "description": "Discover new techniques to enhance your fishing skills"
+        },
+        "o": {
+            "name": "PrivacyPolicyView",
+            "description": "Track and record your best catches with ease"
+        }
+    }
+}
